@@ -1,0 +1,28 @@
+# Private/local automation state
+backups/
+config/
+dev-workspaces/
+logs/
+scripts/
+tests/
+cloud-repository-template/
+
+# Local skill sources not included in the initial public collection
+ai-editor/
+google-analytics-ops/
+humanizer/
+hypothesis-create/
+md-to-pdf/
+openmontage/
+
+# Credentials, local environments, caches, and packaged binaries
+*.skill
+*.env
+**/.env
+**/.env.*
+**/google_token.sh
+**/*token*.json
+**/*credentials*.json
+**/node_modules/
+**/__pycache__/
+**/.venv/
