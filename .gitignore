@@ -6,6 +6,11 @@ logs/
 scripts/
 tests/
 cloud-repository-template/
+COMPLIANCE_REPORT.md
+REFACTORING_PLAN.md
+claude-skills
+codex-skills
+cursor-skills
 
 # Local skill sources not included in the initial public collection
 ai-editor/
