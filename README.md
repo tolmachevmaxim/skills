@@ -12,6 +12,12 @@ client-specific material.
 - [`docs/DAILY_SKILL_SYNC.md`](docs/DAILY_SKILL_SYNC.md) — a generalized
   runner-only synchronization pattern for local tools and cloud workspaces.
 
+## Related project
+
+- [Retain](https://github.com/tolmachevmaxim/retain) — a public,
+  local-first conversation archive and migration reference for AI coding
+  tools.
+
 `BEST_PRACTICES.md` is documentation, not itself an invokable skill. New
 shareable skills should use the standard layout:
 
